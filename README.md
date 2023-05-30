@@ -19,5 +19,5 @@
 - - Data preparation – How do we organize the data for modeling? (OS)
 - - Modeling – What modeling techniques should we apply? (YC)
 - - Evaluation – Which model best meets the business objectives? (YC)
-- - Deployment – How to get the model in production and ensure it works? (YC)
+- - Deployment – How to get the model in production and ensure it works? (CT)
 
