@@ -11,7 +11,7 @@
   - Came up with task distributions
   - Decided to gather more information on datasets
   - Decided to come up with a plan to see which dataset would be ideal
-
+  = Decided on communication method for the team
 # 05/29/2023
 - Tentative Task Distribution
   - Business understanding – What does the business need? (OS)
