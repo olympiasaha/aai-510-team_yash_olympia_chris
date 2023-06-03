@@ -36,3 +36,11 @@
 # 05/31/2023
 - OS submitted a dataset and review material for the project
   - https://www.kaggle.com/competitions/icr-identify-age-related-conditions/data 
+
+# 06/01/2023
+- YC submitted a dataset and review for the projects
+  - https://www.kaggle.com/competitions/otto-recommender-system/data
+
+# 06/01/2023
+- Team meeting setup for Jun 4 to finalize dataset
+- Setup poll for dataset
