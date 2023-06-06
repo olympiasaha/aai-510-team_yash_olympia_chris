@@ -44,3 +44,10 @@
 # 06/01/2023
 - Team meeting setup for Jun 4 to finalize dataset
 - Setup poll for dataset
+
+# 06/04/2023
+- Decided on using ICR dataset
+
+# 06/04/2023
+- Created colab file
+- Created task break down
