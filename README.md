@@ -51,3 +51,10 @@
 # 06/04/2023
 - Created colab file
 - Created task break down
+
+# 06/22/2023
+- Week-7 meeting and discussions
+- Working on different aspects
+- Completed prototyping
+- Working towards final submission
+
